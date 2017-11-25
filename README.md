@@ -37,4 +37,4 @@ Proponga un ejemplo del patrón State (NO visto en clase ni en las exposiciones,
 Proponga un ejemplo del patrón Chain of Responsibility (NO visto en clase ni en las exposiciones, ni TAMPOCO bajado de la web).
 
 # Pregunta 10 (1 punto)
-Proponga un ejemplo del patrón Memento (NO visto en clase ni en las exposiciones, ni TAMPOCO bajado de la web).
+Proponga un ejemplo del patrón Memento (NO visto en clase ni en las exposiciones, ni TAMPOCO bajado de la web).# examenfinal
